@@ -1,0 +1,22 @@
+.idea/
+.DS_Store
+*.ipr
+*.iws
+*.iml
+*.pyc
+.gradle/
+
+src/exoETL/gradle/
+
+
+# TMP and runtime dirs
+build/
+tmp/
+.tmp/
+out/
+venv/
+
+gradlew
+gradlew.bat
+
+spark-warehouse

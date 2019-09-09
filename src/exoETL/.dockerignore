@@ -1,0 +1,13 @@
+# Dirs
+.gradle/
+gradle/
+out/
+src/
+
+# Build config
+build.gradle
+settings.gradle
+
+# Binary
+gradlew
+gradlew.bat
